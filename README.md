@@ -6,13 +6,13 @@ This repository contains my personal review sheets for different computer scienc
 
 The courses that have review sheets available so far include:
 
-* CSCE 608, Database Systems. Semester took: Fall 2017. Instructor: [Jianer Chen](http://faculty.cs.tamu.edu/chen/)
-* CSCE 614, Computer Architecture. Semester took: Fall 2017. Instructor: [Eun Jung (EJ) Kim](http://faculty.cse.tamu.edu/ejkim/)
-* CSCE 629, Analysis of Algorithm. Semester took: Spring 2018. Instructor: [Sing-Hoi Sze](http://faculty.cs.tamu.edu/shsze/)
-* CSCE 670, Information Storage and Retrieval. Semester took: Spring 2018. Instructor: [James Caverlee](http://faculty.cse.tamu.edu/caverlee/)
+* CSCE 608, Database Systems. Semester taken: Fall 2017. Instructor: [Jianer Chen](http://faculty.cs.tamu.edu/chen/)
+* CSCE 614, Computer Architecture. Semester taken: Fall 2017. Instructor: [Eun Jung (EJ) Kim](http://faculty.cse.tamu.edu/ejkim/)
+* CSCE 629, Analysis of Algorithm. Semester taken: Spring 2018. Instructor: [Sing-Hoi Sze](http://faculty.cs.tamu.edu/shsze/)
+* CSCE 670, Information Storage and Retrieval. Semester taken: Spring 2018. Instructor: [James Caverlee](http://faculty.cse.tamu.edu/caverlee/)
 * *More to come!*
 
-I did take more courses other than those listed here, and I do have homework solutions for all courses. But for [academic integrity](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules), I won't post them publicly here.
+I did take more courses other than those listed here, and I do have homework solutions for all of them. But for [academic integrity](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules), I won't post them publicly here.
 
 Hopefully I will include a detail guide here soon, but most of the notes I've uploaded are for midterm/final concepts.
 
