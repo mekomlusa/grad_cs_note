@@ -10,6 +10,7 @@ The courses that have review sheets available so far include:
 * CSCE 614, Computer Architecture. Semester taken: Fall 2017. Instructor: [Eun Jung (EJ) Kim](http://faculty.cse.tamu.edu/ejkim/)
 * CSCE 629, Analysis of Algorithm. Semester taken: Spring 2018. Instructor: [Sing-Hoi Sze](http://faculty.cs.tamu.edu/shsze/)
 * CSCE 670, Information Storage and Retrieval. Semester taken: Spring 2018. Instructor: [James Caverlee](http://faculty.cse.tamu.edu/caverlee/)
+* CSCE 638, Natural Language Processing Foundation and Techniques. Semester taken: Fall 2018. Instructor: [Ruihong Huang](http://faculty.cse.tamu.edu/huangrh/)
 * *More to come!*
 
 I did take more courses other than those listed here, and I do have homework solutions for all of them. But for [academic integrity](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules), I won't post them publicly here.
